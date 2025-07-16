@@ -657,7 +657,7 @@ span {
   height: 100%;
   object-fit: contain; /* ✅ Change from 'cover' to 'contain' */
   background: #000; /* Optional: background behind image if it doesn't fill completely */
-  transition: transform 0.3s ease;
+  transition: transform 0.5s ease;
 }
 .project-title {
   text-align: center;
