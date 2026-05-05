@@ -32,7 +32,7 @@
     <section class="home" id="home">
         <div class="home-content">
             <h3>Hi, I am</h3>
-            <h1>Raynav Kumar</h1>
+            <h1>XYZ</h1>
             <h3>And I'm a <span class="multiple-text"></span></h3>
 
             <p>
@@ -41,11 +41,11 @@
             </p>
 
             <div class="social-media">
-                <a href="https://www.linkedin.com/in/raynav-kumar-bb1111283/"><i class="fa-brands fa-linkedin"></i></a>
+                <a href=""><i class="fa-brands fa-linkedin"></i></a>
                 <!-- <a href="#"><i class="fa-brands fa-twitter"></i></a> -->
-                <a href="mailto:raynav_2022bite032@nitsri.ac.in"><i class="fa-solid fa-envelope"></i></a>
-                <a href="https://www.instagram.com/raynav_3883/"><i class="fa-brands fa-instagram"></i></a>
-                <a href="https://github.com/raynav-3883"><i class="fa-brands fa-github"></i></a>
+                <a href=""><i class="fa-solid fa-envelope"></i></a>
+                <a href=""><i class="fa-brands fa-instagram"></i></a>
+                <a href=""><i class="fa-brands fa-github"></i></a>
             </div>
             <!-- <a href="cv.pdf" download class="btn">Download CV</a> -->
         </div>
@@ -68,9 +68,7 @@
 
             <p>
     7th-semester B.Tech IT student at NIT Srinagar with hands-on experience in web development
-    and database systems. Skilled in HTML, CSS, JavaScript, React.js, Next.js, Python, C#, and SQL.
-    Currently enhancing AWS (Cloud Practitioner) expertise through GeeksforGeeks training.
-    Passionate about building scalable and efficient software solutions.
+    and database systems. 
 </p>
 
 
@@ -192,17 +190,6 @@
         <h2 class="heading">My <span>Certificates</span></h2>
         <div class="certificates-container">
             <div class="certificates-box">
-                <img src="img/Raynav Internship Completion Certificate.jpg" alt="">
-                <div class="certificates-layer">
-                    <h4>SOFTWARE DEVELOPER INTERN</h4>
-                    <p>"Software Developer Intern at F2-Fintech (Onsite) from 17th Dec 2024 – 17th Feb 2025. Worked on
-                        an Employee Management System using Next.js, MongoDB, and AWS. Built and deployed features for
-                        handling employee data, authentication, and role-based access. Optimized backend operations and
-                        enhanced frontend experience for enterprise users."</p>
-                    <i class="fa-regular fa-share-from-square"></i>
-                </div>
-            </div>
-            <div class="certificates-box">
                 <img src="img/NIT PATNA CERT1.jpeg" alt="">
                 <div class="certificates-layer">
                     <h4>INTERNSHIP AT NIT PATNA</h4>
@@ -250,25 +237,6 @@
         <h2 class="heading">My <span>Projects</span></h2>
         <div class="projects-container">
 
-            <!-- File Sharing App -->
-            <div class="projects-box">
-                <h4 class="project-title">File Sharing App (Personal Project)</h4>
-                <div class="projects-slider">
-                    <div class="slides">
-                        <img src="images_project/shareme/image.png" alt="File Sharing App Screenshot 1">
-                        <img src="images_project/shareme/image2.png" alt="File Sharing App Screenshot 2">
-                        <img src="images_project/shareme/image3.png" alt="File Sharing App Screenshot 3">
-                        <img src="images_project/shareme/image4.png" alt="File Sharing App Screenshot 4">
-                        <img src="images_project/shareme/5.png" alt="File Sharing App Screenshot 5">
-                        <img src="images_project/shareme/6.png" alt="File Sharing App Screenshot 6">
-                    </div>
-                    <div class="dots"></div>
-                </div>
-                <div class="projects-layer">
-                    <p>Built a secure file sharing application allowing users to upload and share files like images,
-                        videos, and audios. Used Cloudinary and MongoDB Atlas. Emphasized on user-friendly design.</p>
-                </div>
-            </div>
 
             <!-- Portfolio Website -->
             <div class="projects-box">
@@ -285,54 +253,6 @@
                         HTML, CSS, JavaScript, and PHP to create a responsive and modern design.</p>
                 </div>
             </div>
-
-            <!-- HRMS Software -->
-            <div class="projects-box">
-                <h4 class="project-title">HRMS Software (Internship Project)</h4>
-                <div class="projects-slider">
-                    <div class="slides">
-                        <img src="images_project/hrms/dash.jpeg" alt="HRMS Screenshot 1">
-                        <img src="images_project/hrms/1.jpeg" alt="HRMS Screenshot 2">
-                        <img src="images_project/hrms/attend.png" alt="HRMS Screenshot 3">
-                        <img src="images_project/hrms/emp.png" alt="HRMS Screenshot 4">
-                        <img src="images_project/hrms/policy.png" alt="HRMS Screenshot 5">
-                    </div>
-                    <div class="dots"></div>
-                </div>
-                <div class="projects-layer">
-                    <p>Worked on Human Resource Management System (HRMS) to manage employee data, attendance, and
-                        workflows. Used Next.js for frontend, MongoDB for database, and AWS for deployment. Focused on
-                        secure authentication, role-based access control, and scalable architecture.</p>
-                </div>
-            </div>
-
-            <!-- Music Streaming App -->
-<div class="projects-box">
-    <h4 class="project-title">Music Streaming App (Personal Project)</h4>
-
-    <div class="projects-slider">
-        <div class="slides">
-            <img src="images_project/music_streaming_app/home.jpeg" alt="Music App Home">
-            <img src="images_project/music_streaming_app/player.jpeg" alt="Music Player">
-            <img src="images_project/music_streaming_app/queue.jpeg" alt="Queue Screen">
-            <img src="images_project/music_streaming_app/searchList.jpeg" alt="Search List">
-        </div>
-        <div class="dots"></div>
-    </div>
-
-    <div class="projects-layer">
-        <p>
-            Developed a cross-platform music streaming application using
-            <strong>React Native (Expo)</strong> and <strong>TypeScript</strong>.
-            Implemented audio playback features including play, pause, resume,
-            and track navigation using <strong>Expo AV</strong>.
-            Designed a clean and responsive player UI with album artwork handling,
-            placeholder images, and smooth navigation.
-            Built and tested production-ready Android builds using
-            <strong>Expo EAS</strong>.
-        </p>
-    </div>
-</div>
 
 
             <!-- Network Simulator -->
@@ -379,7 +299,7 @@
         <!-- Footer Section Design -->
         <footer class="footer">
             <div class="footer-text">
-                <p>Copyright &copy; 2024 by @raynav_3883 | All Rights Reserved</p>
+             
             </div>
 
             <div class="footer-iconTop">
@@ -397,7 +317,6 @@
         function sendEmail() {
             var subject = encodeURIComponent(document.getElementById('subject').value);
             var message = encodeURIComponent(document.getElementById('message').value);
-            var mailtoLink = `mailto:raynav_2022bite032@nitsri.ac.in?subject=${subject}&body=${message}`;
             window.location.href = mailtoLink;
         }
     </script>
